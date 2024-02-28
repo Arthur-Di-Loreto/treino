@@ -569,4 +569,9 @@ aside.top-bar {
     width: 30rem;
     margin-left: 1rem;
   }
+  section#pricing div.conteiner.full-height {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
 }
